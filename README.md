@@ -84,7 +84,7 @@ Student所需要进行的操作。总结如下
 2、查询学生住宿：学生可以通过学号、姓名、班级等字段查询其他学生的住宿信息，获得被查询对
 象的所住宿舍、宿舍电话，但被查询对象的其他私人信息不可见。
 
-![image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/1.2.1.drawio)
+![image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/1.2.1.drawio.png)
 图1.2.1学生用例图
 1.2.2宿管员管理
 在本系统中，管理员具有多种功能，拥有各种权限，主要包含管理员上班签到，管理员下班签离，
