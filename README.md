@@ -326,7 +326,7 @@ R图组成，设计时，一般先从局部E-R图开始设计，以减小设计�
 体的主要属性有学号、姓名、性别、出生日期、民族、籍贯、政治面貌、身份证号、所在班级、职
 本务、、家庭电话、个 页面提供文档纯文本预览，下载后是原格式排版 人电话等。基于E-R模型，画出实体属性图如图所示。
 
-[image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/4.1.drawio.png)
+![image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/4.1.drawio.png)
 
 图4.1.1学生实体ER模型
 
