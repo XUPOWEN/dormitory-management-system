@@ -161,6 +161,7 @@ Student所需要进行的操作。总结如下
 相关数据必须存储在数据库中。学生具有学号、姓名、性别、出生日期、系别、专业、班级等属性
 特征，以学号作为每一个学生身份标识。在系统中，学生具有增加、删除、修改及查询等行为，所
 以在系统中应该有一个学生实体类。
+
 ![image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/1.3.1.drawio.png)
 
 ### 1.3.1学生类图
