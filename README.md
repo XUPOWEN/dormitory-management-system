@@ -345,7 +345,9 @@ R图组成，设计时，一般先从局部E-R图开始设计，以减小设计�
 图4.2.1系统总关系模型图4.3数据库的建立
 
 4.3.1学生表（student）
-![image]()
+
+![image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/4.3.1.drawio.png)
+
 Student_roomno寝室编号VARCHAR(20)
 建表语句：
 Create table students(
@@ -355,16 +357,26 @@ varchar(20),
 foreign key(dept_no)references department(dept_no), Foreign key(Student_classno)references
 class(class_no), Foreign key(Student_majorno)references major(major_no) );
 创建视图：create view v_student as select*from students;
+
 4.3.2寝室表（dormitory）
-![image]()
+
+![image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/4.3.2.drawio.png)
+
 4.3.3学院表（department）
-![image]()
+
+![image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/4.3.3.drawio.png)
+
 4.3.4专业表（major）
-![image]()
+
+![image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/4.3.4.drawio.png)
+
 4.3.5班级表（class）
-![image]()
+
+![image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/4.3.5.drawio.png)
+
 4.3.6系统用户表（user）
-![image]()
+
+![image](https://github.com/XUPOWEN/dormitory-management-system/blob/main/4.3.6.drawio.png)
 
 
 
